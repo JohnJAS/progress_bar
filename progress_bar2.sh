@@ -8,7 +8,7 @@
 #               the script running digitally. 
 # author:       Johneko
 # email:        sjjjustice@163.com
-# github:       
+# github:       https://github.com/JohnJAS/progress_bar
 # -------------------------------------------------------------------------------------
 
 #count
